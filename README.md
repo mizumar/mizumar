@@ -1,6 +1,6 @@
 # mizumar
 
-宮城県在住のエンジニアです。
+宮城県在住の一般人です。
 2018年から2022年まで、鉄道関連の業務システムの開発・保守に従事し、内部設計から実装、テストまでを担当しました。
 現在は Next.js / React / TypeScript を中心にWebアプリケーションを個人で開発・運営しながら、Webエンジニアとしての再就職に取り組んでいます。
 
@@ -26,6 +26,7 @@
 ### ホテル検索アプリ
 
 - リポジトリ: https://github.com/mizumar/hotel-comparison-app
+- 公開サイト: https://hotel-comparison-app.vercel.app/
 
 楽天トラベルAPIを利用し、キーワードや条件からホテルを検索できるWebアプリケーションです。
 検索条件のURL保持、お気に入り（Zustand）、ホテル詳細表示を実装しています。
@@ -54,19 +55,3 @@ Worksのカード一覧から各作品の詳細ページへ進む構成で、基
 ## 資格
 
 - 情報セキュリティマネジメント試験（SG）合格（2017年春期）
-
-
-<!--
-**mizumar/mizumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
